@@ -1,1 +1,1 @@
-# Multi-class-and-Multi-Label-Classi-cation-Using-Support-Vector-Machines
+# Multi-class and Multi-Label Classification Using Support Vector Machines
